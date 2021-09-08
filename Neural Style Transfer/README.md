@@ -6,5 +6,3 @@ Used the pretrained VGG-19 model to train the Neural style transfer model.
 Implementation based on the following paper:
 **https://arxiv.org/abs/1508.06576**
 
-hello world
-
